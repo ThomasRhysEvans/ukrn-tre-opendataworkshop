@@ -1,10 +1,10 @@
 ---
-title: Text Lesson
-teaching: null
-exercises: null
+title: "Data Sharing: A Practical How-To"
+teaching: 20
+exercises: 20
 duration: null
-summary: This template shows you how to use the various different special text
-  boxes on offer.
+summary: In this session we're going to cover some of the practicalities around
+  how we can share data.
 questions: null
 objectives: null
 keypoints: null
