@@ -22,7 +22,14 @@ originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
 
 In this brief and final section, we're going to negotiate how to make the most out of having our data being 'open'.
 
+
 ### Citations
 
-One of the easiest things you can do to make your open data accessible and trackable, is to create a 
+One of the easiest things you can do to make your open data accessible and trackable, is to ensure it has a permanent DOI and is therefore citable. You can do this using seperate repositories like figshare.com or publishing the data file within a "component" on the OSF to get a seperate DOI (under the "citation" section). 
+
+For example, data for the project written up here (https://psyarxiv.com/5k8rq/) has been saved in a public component of the wider project page here (https://osf.io/dnh7u/). This means individuals can cite this data specifically, which you can then track later! 
+
+#### Activity
+
+Spend a few minutes considering how you can make your data citable and trackable. To start, make your project public and deposit your data in a seperate OSF component with it's own seperate citation.
 
