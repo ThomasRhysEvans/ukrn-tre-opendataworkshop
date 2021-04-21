@@ -20,107 +20,31 @@ originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
 ---
 ## Markdown
 
-The text in these episodes is written in markdown.
-The **Workshop Builder** has a markdown editor, so it should not be _too difficult_ to edit the text to suit your requirements.
+In this section, we're going to explore what we should be doing when collecting data with participants to ensure their consent.
 
-In addition to this, the website template we use has a variety of special highlighted sections that we use to draw attention to things.
+### Quantitative
 
-### Lesson sections
+Making quantitative data open is often relatively simple by declaring what parts of their data will shared, when, and how, on the ethical documentation as we prepared earlier. What we also know is that participants typically don't really read the informed consent forms particularly thoroughly (Perrault & Nazione, 2016). What could we do to improve this?
 
-The following lesson section tags are available:
-* `{: .prereq}`
-* `{: .callout}`
-* `{: .challenge}`
-* `{: .checklist}`
-* `{: .discussion}`
-* `{: .solution}`
-* `{: .testimonial}`
+- 
 
-Additionally, you can make extra copies of these tags, which are included automatically:
-* `{: .objectives}`
-* `{: .keypoints}`
+Perrault, E. K., & Nazione, S. A. (2016). Informed consent—uninformed participants: shortcomings of online social science consent forms and recommendations for improvement. Journal of Empirical Research on Human Research Ethics, 11(3), 274-280.
 
-Each tag is used in the same way, by including a section with a heading (`## heading`) in a block quote (`> quoted text`), and by having the tag `{: .tag-name}` on the line immediately following:
+### Qualitative
 
-```markdown
-> ## Section Title
-> Here is the section body.
-> This can be multiple lines long, and include images, code, etc.
->
-> If you want paragraph breaks, make sure the quotation block continues
-> by having the blank line start with >
->
-> When you're finished, style the whole block by including the tag on the next line.
-{: .tag-name}
-```
+Making qualitative data open can often be more problematic when considering the amount of detail and identifying information participants may offer. It's good to ensure you are being transparent about the use of their data before and after the data collection. What could you do?
 
-### Examples
+- Ask questions to ensure the participant understood the open data comments of the ethics forms
+- Remind participants that their data will be made openly accessible after data collection
+- Run through the protocols you will implement to support de-identifying data
+- Decide upon a pseudynm and other such details to replace sensitive information
+- Negotiate what can be shared about demographic details explicitly (e.g. their specific age or age category)
+- Remind participants at the end of the data collection how, why and/or when their data will be shared
+- Provide participants with documents that are intended to be shared to ensure they are happy to have all details made openly available
+- Returning to participants with questions about what they feel comfortable sharing
 
-> ## `{: .prereq}` Tag
-> This is a `{: .prereq}` tag block.
-> This tag is usually used to tell participants what they need before they can complete a lesson.
-{: .prereq}
 
-> ## `{: .callout}` Tag
-> This is a `{: .callout}` tag block.
-> This tag is usually used to highlight something participants should take note of.
-{: .callout}
 
-> ## `{: .challenge}` Tag
-> This is a `{: .challenge}` tag block.
-> This tag is usually used to suggest an activity for participants to do, perhaps writing a bit of code or trying to complete an exercise.
-{: .challenge}
+#### Activity
 
-> ## `{: .checklist}` Tag
-> This is a `{: .checklist}` tag block.
-> This tag is usually used to provide a list participants can use to make sure they don't forget an important step in a procedure.
-{: .checklist}
-
-> ## `{: .discussion}` Tag
-> This is a `{: .discussion}` tag block.
-> This tag is usually used to present a question for participants to discuss.
-{: .discussion}
-
-> ## `{: .solution}` Tag
-> This is a `{: .solution}` tag block.
-> This tag is usually used to present a solution to a problem.
-> It is hidden by default, so that participants have to click to expand it and see the answer.
-{: .solution}
-
-```markdown
-> Using a different heading level for the solution tag won't work.
-> It has to be level 2.
-```
-{: .warning}
-
-> ## `{: .testimonial}` Tag
-> This is a `{: .testimonial}` tag block.
-> This tag is usually used to present quotes from people who have previously participated in the course.
-{: .testimonial}
-
-### Advanced Tag Use
-
-You can nest tags.
-It's quite common to see `{: .solution}` tags nested inside `{: .challenge}` tags, for example.
-They are done by stacking quote levels:
-```markdown
-> ## Question
-> Why do you normally not need to use `{: .objectives}` and `{: .keypoints}` tags?
-> > ## Answer
-> > These tags are included automatically at the beginning and end of the lesson.
-> {: .solution}
-{: .challenge}
-```
-
-And it looks like:
-> ## Question
-> Why do you normally not need to use `{: .objectives}` and `{: .keypoints}` tags?
-> > ## Answer
-> > These tags are included automatically at the beginning and end of the lesson.
-> {: .solution}
-{: .challenge}
-
-## HTML
-
-You can also write in HTML.
-The special `<kbd>` tag is available for use in neatly styling instructions like "press <kbd>Ctrl</kbd> + <kbd>Home</kbd>".
+Take 5 minutes to plan an effective consent protocol, considering the ethical materials we developed earlier.
