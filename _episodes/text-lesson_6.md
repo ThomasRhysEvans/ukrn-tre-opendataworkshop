@@ -27,6 +27,8 @@ In this brief and final section, we're going to negotiate how to make the most o
 
 One of the easiest things you can do to make your open data accessible and trackable, is to ensure it has a permanent DOI and is therefore citable. You can do this using seperate repositories like figshare.com or publishing the data file within a "component" on the OSF to get a seperate DOI (under the "citation" section). 
 
+![image.png](../fig/citationcomponent.png)
+
 For example, data for the project written up here (https://psyarxiv.com/5k8rq/) has been saved in a public component of the wider project page here (https://osf.io/dnh7u/). This means individuals can cite this data specifically, which you can then track later! 
 
 #### Activity
