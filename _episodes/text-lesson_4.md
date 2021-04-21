@@ -1,10 +1,10 @@
 ---
-title: Text Lesson
-teaching: null
-exercises: null
+title: Negotiating Ethics Applications for Data Sharing
+teaching: 10
+exercises: 15
 duration: null
-summary: This template shows you how to use the various different special text
-  boxes on offer.
+summary: We're now going to explore how to write an ethics application in a way
+  that increases likelihood of it being approved.
 questions: null
 objectives: null
 keypoints: null
