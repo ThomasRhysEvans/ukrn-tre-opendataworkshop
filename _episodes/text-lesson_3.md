@@ -18,7 +18,7 @@ dependencies: []
 originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
 
 ---
-#Preparing your Project for Data Sharing
+# Preparing your Project for Data Sharing
 
 In this session we're going to look through the research process, and how to make data sharing easier by making very small changes throughout the research process. It all starts when designing your study by making a clear data management plan. To get us started, it might help to think about the following:
 
