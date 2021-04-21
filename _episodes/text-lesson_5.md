@@ -1,5 +1,5 @@
 ---
-title: Considerations during Data Collection for Data Sharing
+title: Data Sharing Considerations during Data Collection
 teaching: 5
 exercises: 5
 duration: null
