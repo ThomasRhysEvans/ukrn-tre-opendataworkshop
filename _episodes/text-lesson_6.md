@@ -29,7 +29,9 @@ One of the easiest things you can do to make your open data accessible and track
 
 ![image.png](../fig/citationcomponent.png)
 
-For example, data for the project written up here (https://psyarxiv.com/5k8rq/) has been saved in a public component of the wider project page here (https://osf.io/dnh7u/). This means individuals can cite this data specifically, which you can then track later! 
+For example, data for the project written up here (https://psyarxiv.com/5k8rq/) has been saved in a public component of the wider project page here (https://osf.io/dnh7u/). This means individuals can cite this dataset specifically, which you can then track later! 
+
+
 
 #### Activity
 
