@@ -1,10 +1,10 @@
 ---
-title: Text Lesson
-teaching: null
-exercises: null
+title: Making Impact with Open Data
+teaching: 5
+exercises: 5
 duration: null
-summary: This template shows you how to use the various different special text
-  boxes on offer.
+summary: In this final session, we're going to discuss strategies to maximise
+  the impact opening your data can have.
 questions: null
 objectives: null
 keypoints: null
