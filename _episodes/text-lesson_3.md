@@ -27,7 +27,7 @@ In this session we're going to look through the research process, and how to mak
 - What of the data I plan to collect would be most valuable to share publicly?
 - What of the data I could share might be problematic for identifying individuals?
 - Where do I want the data to be stored, and for how long?
-
+- What else would I have to do/share to make the data shared make sense to anyone who might access the data?
 
 ## Activity
 
