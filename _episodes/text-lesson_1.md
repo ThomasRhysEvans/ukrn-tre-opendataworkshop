@@ -1,10 +1,10 @@
 ---
-title: Text Lesson
-teaching: null
-exercises: null
-duration: null
-summary: This template shows you how to use the various different special text
-  boxes on offer.
+title: Aims of the Session
+teaching: 15
+exercises: 0
+duration: 0
+summary: We're going to start our journey by looking at what we hope to achieve
+  over this workshop
 questions: null
 objectives: null
 keypoints: null
