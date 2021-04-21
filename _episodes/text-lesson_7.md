@@ -20,7 +20,7 @@ originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
 ---
 # Data Sharing: A Practical How-To
 
-In this session we're going to cover some of the practicalities around how we can share data. There's lots to cover in this session! We're going to cover some of the misconceptions with data sharing discussed earlier by talking through the following:
+In this session we're going to cover some of the practicalities around how we can share data. There's lots to cover in this session! We're going to cover some of the misconceptions with data sharing discussed earlier by talking through the following points. It'll all be practical so you'll be ready to negotiate these for any future projects.
 
 - How
 - Where
