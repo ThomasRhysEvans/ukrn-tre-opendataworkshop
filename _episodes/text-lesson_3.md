@@ -1,10 +1,10 @@
 ---
-title: Text Lesson
-teaching: null
-exercises: null
+title: Preparing your Project
+teaching: 15
+exercises: 15
 duration: null
-summary: This template shows you how to use the various different special text
-  boxes on offer.
+summary: In this time, we're going to explore how best to think through the
+  level of openness and explore Data Management Plans
 questions: null
 objectives: null
 keypoints: null
