@@ -18,115 +18,38 @@ dependencies: []
 originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
 
 ---
-## Markdown
+# Aims of the Session
 
-Hello everyone! Welcome to the start of this workshop on Data Sharing!
+Hello everyone! Welcome to the start of this workshop on Data Sharing/Open Data!
+
+My name is Tom (He/Him/His) and I am an Associate Professor in Occupational Psychology at the University of Greenwich. I have developed this whole workshop in conjunction with the UK Reproducibility Network to support individuals within Psychology, and possibly beyond!, with practical guidance and support for implementing open data practices into their research. My personal goal is to provide you the support, advice and guidance to help you make small changes to your work to improve transparency and reproducibility.
+
+The ethos of the training as a whole is that we're trying to help you make small changes to refine your workflow (actual, practical changes), that better is good (we're not looking to totally transform your workflow to an unrecognisable state!) and that there should be no homework (you're busy so everything is inclusive). 
 
 
+## Activity
+
+Take just a few minutes to know those who you don't already know on the course. Say hello, your understanding/experience of open data/data sharing, and tell us something about you as a person (favourite food and pets are always a good option!).
 
 
+## Aims
 
-The text in these episodes is written in markdown.
-The **Workshop Builder** has a markdown editor, so it should not be _too difficult_ to edit the text to suit your requirements.
+In this training session, we're going to focus on designing open data into a project from the very start. The training will walk you through the research cycle from the very beginning. You can of course implement these changes at different parts of the research cycle, but we're going to focus on new/upcoming projects to show you how many of the issues that mgiht be encountered at the later stages can be easily negotiated from the start. You can then work through previous projects to consider what might be sharable, whilst also having a clear understanding of how to implement it for any future works.
 
-In addition to this, the website template we use has a variety of special highlighted sections that we use to draw attention to things.
 
-### Lesson sections
+## Outcomes
 
-The following lesson section tags are available:
-* `{: .prereq}`
-* `{: .callout}`
-* `{: .challenge}`
-* `{: .checklist}`
-* `{: .discussion}`
-* `{: .solution}`
-* `{: .testimonial}`
+By the end of the session you will have:
+- A balanced understanding of the role of Open Data 
+- An understanding of the role of Data Management Plans
+- An understanding of FAIR data principles and the role of codebooks/data libraries
+- An understanding of the various licenses that can be applied to data files
+- Experience of using the OSF (osf.io) to share
 
-Additionally, you can make extra copies of these tags, which are included automatically:
-* `{: .objectives}`
-* `{: .keypoints}`
-
-Each tag is used in the same way, by including a section with a heading (`## heading`) in a block quote (`> quoted text`), and by having the tag `{: .tag-name}` on the line immediately following:
-
-```markdown
-> ## Section Title
-> Here is the section body.
-> This can be multiple lines long, and include images, code, etc.
->
-> If you want paragraph breaks, make sure the quotation block continues
-> by having the blank line start with >
->
-> When you're finished, style the whole block by including the tag on the next line.
-{: .tag-name}
-```
-
-### Examples
-
-> ## `{: .prereq}` Tag
-> This is a `{: .prereq}` tag block.
-> This tag is usually used to tell participants what they need before they can complete a lesson.
-{: .prereq}
-
-> ## `{: .callout}` Tag
-> This is a `{: .callout}` tag block.
-> This tag is usually used to highlight something participants should take note of.
-{: .callout}
-
-> ## `{: .challenge}` Tag
-> This is a `{: .challenge}` tag block.
-> This tag is usually used to suggest an activity for participants to do, perhaps writing a bit of code or trying to complete an exercise.
-{: .challenge}
-
-> ## `{: .checklist}` Tag
-> This is a `{: .checklist}` tag block.
-> This tag is usually used to provide a list participants can use to make sure they don't forget an important step in a procedure.
-{: .checklist}
-
-> ## `{: .discussion}` Tag
-> This is a `{: .discussion}` tag block.
-> This tag is usually used to present a question for participants to discuss.
-{: .discussion}
-
-> ## `{: .solution}` Tag
-> This is a `{: .solution}` tag block.
-> This tag is usually used to present a solution to a problem.
-> It is hidden by default, so that participants have to click to expand it and see the answer.
-{: .solution}
-
-```markdown
-> Using a different heading level for the solution tag won't work.
-> It has to be level 2.
-```
-{: .warning}
-
-> ## `{: .testimonial}` Tag
-> This is a `{: .testimonial}` tag block.
-> This tag is usually used to present quotes from people who have previously participated in the course.
-{: .testimonial}
-
-### Advanced Tag Use
-
-You can nest tags.
-It's quite common to see `{: .solution}` tags nested inside `{: .challenge}` tags, for example.
-They are done by stacking quote levels:
-```markdown
-> ## Question
-> Why do you normally not need to use `{: .objectives}` and `{: .keypoints}` tags?
-> > ## Answer
-> > These tags are included automatically at the beginning and end of the lesson.
-> {: .solution}
-{: .challenge}
-```
-
-And it looks like:
-> ## Question
-> Why do you normally not need to use `{: .objectives}` and `{: .keypoints}` tags?
-> > ## Answer
-> > These tags are included automatically at the beginning and end of the lesson.
-> {: .solution}
-{: .challenge}
-
-## HTML
-
-You can also write in HTML.
-The special `<kbd>` tag is available for use in neatly styling instructions like "press <kbd>Ctrl</kbd> + <kbd>Home</kbd>".
+Whilst I don't have any goodybags for you, here's a list of the useful things you'll walk away with from this workshop:
+- A range of statements suitable for placing within ethics applications
+- A data management framework to apply for all future projects
+- An updated participant information sheet template with data sharing built-in
+- An updated consent form template with data sharing built-in
+- A data sharing protocol to support ethical data sharing
+- A guide for how to share data (and other such materials) using the OSF
