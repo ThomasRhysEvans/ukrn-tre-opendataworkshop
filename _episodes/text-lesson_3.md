@@ -1,5 +1,5 @@
 ---
-title: Preparing your Project
+title: Preparing your Project for Data Sharing
 teaching: 15
 exercises: 15
 duration: null
