@@ -29,6 +29,15 @@ In this session we're going to look through the research process, and how to mak
 - Where do I want the data to be stored, and for how long?
 - What else would I have to do/share to make the data shared make sense to anyone who might access the data?
 
+## Data Management Plans
+
+A Data Management Plan is a document which outlines what data you will be collecting, what will be shared, and how. It's designed to provide a clear roadmap towards data generation, management, and preservation, and is typically now explicitly requested by research funders (see: https://dmponline.dcc.ac.uk/public_templates). It not only focuses upon the data file itself, but also meta-data, which is the data about data e.g. which questions were used to initiate responses, when the data was collected, and other such information. 
+
+Data Management Plans can be simple (e.g. https://www.data.cam.ac.uk/files/dataplan.docx or https://www.ucl.ac.uk/library/sites/library/files/ucl_dmp_template.docx or https://intranet.birmingham.ac.uk/as/libraryservices/library/documents/public/dmp-uob-template-v5-mar20.docx). Often larger research projects will require more substantive detail. For example, see the templates for many funders here: https://dmponline.dcc.ac.uk/public_templates
+
+Have a brief look at some of these plans to familiarise yourself with the type of information required. This might help you identify some relevant questions for your next project.
+
+
 ## Activity
 
 We're now going to spend a few minutes editing your participant information sheet and consent form templates to facilitate open data sharing. Here we want to focus on being as transparent and clear to participants about what exactly will be shared, how (public or private) and in what ways you are protecting them (e.g. how you will de-ensure datasets do not clearly identify any given individual). 
