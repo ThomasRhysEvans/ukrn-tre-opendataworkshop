@@ -1,7 +1,7 @@
 ---
 title: Aims of the Session
-teaching: 15
-exercises: 0
+teaching: 10
+exercises: 5
 duration: 0
 summary: We're going to start our journey by looking at what we hope to achieve
   over this workshop
