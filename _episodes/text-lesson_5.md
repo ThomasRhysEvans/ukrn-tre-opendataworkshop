@@ -51,6 +51,7 @@ Making qualitative data open can often be more problematic when considering the 
 
 
 
+
 #### Activity
 
 Take 5 minutes to plan an effective consent protocol for your project, considering the ethical materials we developed earlier.
