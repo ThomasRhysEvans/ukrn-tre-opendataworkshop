@@ -1,10 +1,10 @@
 ---
-title: Text Lesson
-teaching: null
-exercises: null
+title: Benefits & Concerns with Open Data
+teaching: 10
+exercises: 20
 duration: null
-summary: This template shows you how to use the various different special text
-  boxes on offer.
+summary: In this session, we're going to explore your thoughts on the benefits
+  and concerns with sharing data.
 questions: null
 objectives: null
 keypoints: null
