@@ -32,8 +32,7 @@ Finally, I really want this to be a safe and inclusive training space and commun
 
 ## Activity
 
-Take just a few minutes to know those who you don't already know on the course. Say hello, tell us your prefered names/pronouns if you like, and then share your understanding/experience of open data/data sharing. It's always nice to get to know each-other a little more so feel free to also tell us something about you as a person (favourite food and pets are always a good option!).
-
+Take just a few minutes to know those who you don't already know on the course. Say hello, tell us your prefered names/pronouns if you like, and then share your understanding/experience of open data/data sharing. It's always nice to get to know each-other a little more so feel free to also tell us something about you as a person (favourite food and pets are always a good option!). 
 
 
 ## Aims
@@ -59,3 +58,9 @@ Whilst we are all missing face-to-face conferences and the novelty notebooks, pe
 - An updated consent form template with data sharing built-in
 - A data sharing protocol to support ethical data sharing
 - A guide for how to share data (and other such materials) using the OSF
+
+
+## Reflection
+
+Take a moment to reflect upon what you would most like to gain from the course above. If you are due to start a new research project soon, jot down the brief scope of your project as you might find this helpful in the next few sections.
+
