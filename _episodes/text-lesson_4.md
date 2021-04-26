@@ -1,6 +1,6 @@
 ---
 title: Negotiating Ethics for Data Sharing
-teaching: 10
+teaching: 5
 exercises: 15
 duration: null
 summary: We're now going to explore how to write an ethics application in a way
